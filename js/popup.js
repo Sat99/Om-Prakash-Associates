@@ -20,7 +20,7 @@ $(document).ready(function() {
   // now call function automatically after some time
 
   // auto open after 2s
-  setTimeout(showWindow, 2000);
+  setTimeout(showWindow, 1000);
 
   // close after click
 
